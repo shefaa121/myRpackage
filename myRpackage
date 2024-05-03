@@ -1,0 +1,7 @@
+cd C:\Users\sh_al\OneDrive\المستندات\myRpackage
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin <https://github.com/shefaa121/myRpackage/new/main>
+git push -u origin master
+
